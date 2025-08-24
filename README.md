@@ -1,6 +1,7 @@
 # ⚽ Cores da Bola - Futsal Feminino  
 
-![Logo do time](img/logo.png)  
+![Logo do time](img/logo.png)
+
 
 ## 📌 Sobre o projeto  
 O **Cores da Bola** é o site oficial do time de futsal feminino que nasceu com a missão de valorizar, dar visibilidade e fortalecer o esporte feminino.  
